@@ -31,3 +31,12 @@ void print_alphabet_x10(void);
  * Return: Returns 1 if c is lowercase and returns 0 if not.
  */
 int _islower(int);
+
+/**
+ * _isalpha - the function will take one argument
+ * @int: will be the argument
+ *
+ * Return: is 1 if c is a letter, lowercase or uppercase 
+ * otherwise it will return a 0
+ */
+int _isalpha(int);
