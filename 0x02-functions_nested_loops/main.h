@@ -23,3 +23,11 @@ void print_alphabet(void);
  * Return: nothing to be returned
  */
 void print_alphabet_x10(void);
+
+/**
+ * _islower - the function will take one argument
+ * @int: the argument will be of type integer
+ *
+ * Return: Returns 1 if c is lowercase and returns 0 if not.
+ */
+int _islower(int);
