@@ -48,3 +48,11 @@ int _isalpha(int);
  * Return: will be of type integer
  */
 int print_sign(int);
+
+/**
+ * _abs - function will take one argument
+ * @int: the argument is of type interger
+ *
+ * Return: will return a value of type integer
+ */
+int _abs(int);
