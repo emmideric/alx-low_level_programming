@@ -7,12 +7,12 @@
  */
 int main(void)
 {
-	int c;
+	int c, i;
 	char p[10] = "_putchar";
 	char t;
 
 	/*loop through the array to print each character*/
-	for (int i = 0; i < 10; i++)
+	for (i = 0; i < 10; i++)
 	{
 		t = p[i];
 		c = _putchar(t);
