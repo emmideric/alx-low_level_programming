@@ -40,3 +40,11 @@ int _islower(int);
  * otherwise it will return a 0
  */
 int _isalpha(int);
+
+/**
+ * print_sign - the function will take one argument
+ * @int: the argument will be of type integer
+ *
+ * Return: will be of type integer
+ */
+int print_sign(int);
