@@ -56,3 +56,11 @@ int print_sign(int);
  * Return: will return a value of type integer
  */
 int _abs(int);
+
+/**
+ * print_last_digit - takes one argument to get its last digit
+ * @int: the argument is of type int
+ *
+ * Return: is the last digit of type integer
+ */
+int print_last_digit(int);
