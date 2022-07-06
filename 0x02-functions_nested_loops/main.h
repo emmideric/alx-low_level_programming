@@ -8,3 +8,10 @@
  * Return: ASCII integer value of the argument..
  */
 int _putchar(char);
+
+/**
+ * print_aplhabet - the function will not take any arguments
+ *
+ * Return: nothing will be returned
+ */
+void print_alphabet(void);
